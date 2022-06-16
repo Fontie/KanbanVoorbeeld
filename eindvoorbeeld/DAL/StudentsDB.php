@@ -4,7 +4,9 @@
         const DSN = "mysql:host=localhost;dbname=WIP";
         const USER = "root";
         const PASSWD = "";
-           
+           //AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH I WANT TO DIEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+           //I WANT TO HAVE THE BIGGEST DEATH EVER
+           //AAAAAAAAAH
         //Haal alle leerlingen op
         function selectAllStudent(){		
             $pdo = new PDO(self::DSN, self::USER, self::PASSWD);
